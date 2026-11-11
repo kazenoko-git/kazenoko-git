@@ -25,16 +25,12 @@ I explore efficient computation, alternative neural architectures, hardware-awar
 
 **[Télos](https://github.com/kazenoko-git/telos)** — An open-source research toolkit for training, benchmarking, and visualising language-model results across **MLX, CUDA, and TPU**. Autoregressive and diffusion models included. So are the occasional existential questions about GPU memory.
 
-<img width="1266" height="671" alt="image" src="https://github.com/user-attachments/assets/2772d391-cf03-49cc-b6fc-0c3d3258371b" />
-
 **COROSred** — Experimental language-model architecture research. Successful experiments, failed experiments, and the scientific obligation to document both.
 
 <!-- COROSred paper: replace the following line with a real link when it's public. -->
 *Working paper in preparation. Yes, there will be graphs.*
 
-**Talos** — Neuromorphic Processing Units. Or, as I like to call them, **weird NPUs**. Exploring FPGA prototypes and ASIC designs. Here's Talos 1.
-
-<img width="3467" height="1608" alt="talos_1_design2" src="https://github.com/user-attachments/assets/1cf63764-11b8-4842-9ae6-75c139c924b9" />
+**Talos** — Neuromorphic Processing Units. Or, as I like to call them, **weird NPUs**. Exploring FPGA prototypes and ASIC designs. 
 
 <!-- Add a real Talos 1 image here when ready:
 <img src="./assets/talos-1.png" alt="Talos 1 FPGA prototype" width="80%" />
