@@ -1,4 +1,3 @@
-<div align="center">
 
 # I'm Ivan.
 
@@ -13,8 +12,6 @@ And if the former:
 ### *Do we [wing it](https://https://research.wingit.tech/)?*
 
 The answer's always **yes**, by the way.
-
-</div>
 
 I build things across **AI, ML, game engines, graphics, systems, hardware, and creative software.**
 
@@ -64,7 +61,7 @@ I explore efficient computation, alternative neural architectures, hardware-awar
 
 ---
 
-## 🧪Other Weird Things I'm Building...
+## Other Weird Things I'm Building...
 
 **YAAT** — Agentic, *fast* computer-use automation. The goal is to make computers do things before I lose my patience.
 
